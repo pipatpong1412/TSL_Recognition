@@ -5,7 +5,12 @@
 	Loss for Fold 4: 0.056661128997802734
 	Loss for Fold 5: 0.21393971145153046
 	Mean loss: 0.09590475782752036
-	Accuracy scores for each fold: [0.9470587968826294, 	0.9117646813392639, 0.9352940917015076, 0.9588235020637512, 	0.9470587968826294]
+
+	Accuracy for Fold 1: 0.9470587968826294
+	Accuracy for Fold 2: 0.9117646813392639
+	Accuracy for Fold 3: 0.9352940917015076
+	Accuracy for Fold 4: 0.9588235020637512
+	Accuracy for Fold 5: 0.9470587968826294
 	Mean accuracy: 0.9399999737739563
 
 	22/22 [==============================] - 3s 89ms/step - loss: 0.0922 - 	categorical_accuracy: 0.9676
@@ -20,7 +25,12 @@
 	Loss for Fold 4: 0.23731879889965057
 	Loss for Fold 5: 0.06950875371694565
 	Mean loss: 0.11389231756329536
-	Accuracy scores for each fold: [0.8999999761581421, 0.970588207244873, 	0.9823529124259949, 0.9176470637321472, 0.970588207244873]
+
+	Accuracy for Fold 1: 0.8999999761581421
+	Accuracy for Fold 2: 0.970588207244873
+	Accuracy for Fold 3: 0.9823529124259949
+	Accuracy for Fold 4: 0.9176470637321472
+	Accuracy for Fold 5: 0.970588207244873
 	Mean accuracy: 0.948235273361206
 
 	22/22 [==============================] - 12s 223ms/step - loss: 	0.0287 - categorical_accuracy: 0.9912
@@ -35,7 +45,12 @@
 	Loss for Fold 4: 0.05670269951224327
 	Loss for Fold 5: 0.13282623887062073
 	Mean loss: 0.10057217851281167
-	Accuracy scores for each fold: [0.929411768913269, 	0.8588235378265381, 0.9647058844566345, 0.9411764740943909, 	0.9352940917015076]
+
+	Accuracy for Fold 1: 0.929411768913269
+	Accuracy for Fold 2: 0.8588235378265381
+	Accuracy for Fold 3: 0.9647058844566345
+	Accuracy for Fold 4: 0.9411764740943909
+	Accuracy for Fold 5: 0.9352940917015076
 	Mean accuracy: 0.925882351398468
 
 	22/22 [==============================] - 1s 38ms/step - loss: 	0.0182 - categorical_accuracy: 0.9971
