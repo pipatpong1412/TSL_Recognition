@@ -1,67 +1,35 @@
 - LSTM
-	Train 350 epochs
-	Loss for Fold 1: 0.08209451287984848
-	Loss for Fold 2: 0.05928124859929085
-	Loss for Fold 3: 0.06754718720912933
-	Loss for Fold 4: 0.056661128997802734
-	Loss for Fold 5: 0.21393971145153046
-	Mean loss: 0.09590475782752036
-
-	Accuracy for Fold 1: 0.9470587968826294
-	Accuracy for Fold 2: 0.9117646813392639
-	Accuracy for Fold 3: 0.9352940917015076
-	Accuracy for Fold 4: 0.9588235020637512
-	Accuracy for Fold 5: 0.9470587968826294
-	Mean accuracy: 0.9399999737739563
-
-	22/22 [==============================] - 3s 89ms/step - loss: 0.0922 - 	categorical_accuracy: 0.9676
-	6/6 [==============================] - 1s 123ms/step - loss: 0.1639 - 	categorical_accuracy: 0.9471
+	Train 300 epochs
+	Loss for Fold 1: 0.11047641932964325
+	Loss for Fold 2: 0.2515261769294739
+	Loss for Fold 3: 0.09009085595607758
+	Loss for Fold 4: 0.2641354203224182
+	Loss for Fold 5: 0.10092335939407349
+	Mean loss: 0.16343044638633727
+	Accuracy scores for each fold: [0.9833333492279053, 	0.9333333373069763, 0.9888888597488403, 0.9666666388511658, 	0.9888888597488403]
+	Mean accuracy: 0.9722222089767456
 ----------------------------------------------------------------------------
 
 - BiLSTM
 	Train 520 epochs
-	Loss for Fold 1: 0.1302432268857956
-	Loss for Fold 2: 0.04843054339289665
-	Loss for Fold 3: 0.08396026492118835
-	Loss for Fold 4: 0.23731879889965057
-	Loss for Fold 5: 0.06950875371694565
-	Mean loss: 0.11389231756329536
-
-	Accuracy for Fold 1: 0.8999999761581421
-	Accuracy for Fold 2: 0.970588207244873
-	Accuracy for Fold 3: 0.9823529124259949
-	Accuracy for Fold 4: 0.9176470637321472
-	Accuracy for Fold 5: 0.970588207244873
-	Mean accuracy: 0.948235273361206
-
-	22/22 [==============================] - 12s 223ms/step - loss: 	0.0287 - categorical_accuracy: 0.9912
-	6/6 [==============================] - 2s 340ms/step - loss: 	0.0516 - categorical_accuracy: 0.9706
+	Loss for Fold 1: 0.1438918113708496
+	Loss for Fold 2: 0.39115747809410095
+	Loss for Fold 3: 0.5021762251853943
+	Loss for Fold 4: 0.22547373175621033
+	Loss for Fold 5: 0.14155951142311096
+	Mean loss: 0.2808517515659332
+	Accuracy scores for each fold: [0.9833333492279053, 	0.8722222447395325, 0.8277778029441833, 0.9555555582046509, 	0.949999988079071]
+	Mean accuracy: 0.9177777886390686
 ----------------------------------------------------------------------------
 
 - GRU
 	Train 370 epochs
-	Loss for Fold 1: 0.08434771001338959
-	Loss for Fold 2: 0.1334601193666458
-	Loss for Fold 3: 0.0955241248011589
-	Loss for Fold 4: 0.05670269951224327
-	Loss for Fold 5: 0.13282623887062073
-	Mean loss: 0.10057217851281167
-
-	Accuracy for Fold 1: 0.929411768913269
-	Accuracy for Fold 2: 0.8588235378265381
-	Accuracy for Fold 3: 0.9647058844566345
-	Accuracy for Fold 4: 0.9411764740943909
-	Accuracy for Fold 5: 0.9352940917015076
-	Mean accuracy: 0.925882351398468
-
-	22/22 [==============================] - 1s 38ms/step - loss: 	0.0182 - categorical_accuracy: 0.9971
-	6/6 [==============================] - 0s 22ms/step - loss: 0.3462 - 	categorical_accuracy: 0.9353
-_____________________________________
-|Model|Epoch|Mean Accuracy|Mean Loss|
-_____________________________________
-|LSTM | 350 |    0.93     |   0.09  |
-_____________________________________
-| GRU | 370 |    0.92     |   0.10  |
-_____________________________________
-|BiLSTM | 350 |    0.94   |  0.11   |
+	Loss for Fold 1: 0.04911518469452858
+	Loss for Fold 2: 0.11224748939275742
+	Loss for Fold 3: 0.508992075920105
+	Loss for Fold 4: 0.06795254349708557
+	Loss for Fold 5: 0.040028590708971024
+	Mean loss: 0.15566717684268952
+	Accuracy scores for each fold: [1.0, 0.9666666388511658, 	0.8999999761581421, 1.0, 1.0]
+	Mean accuracy: 0.9733333230018616
 _____________________________________
